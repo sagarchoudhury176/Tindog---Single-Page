@@ -1,6 +1,14 @@
-#title {
+.colored {
     background-color: #ff4c68;
     color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+#title {
+    text-align: left;
 }
 
 body {
@@ -49,7 +57,6 @@ h1 {
 
 #features {
     padding: 7% 15%;
-    background-color: #fff;
     position: relative;
 }
 
@@ -78,7 +85,6 @@ p {
 #testimonials {
     
     background-color: #ef8172;
-    color: #fff;
 }
 
 h2 {
@@ -121,8 +127,6 @@ h2 {
 
 
 #cta {
-    background-color: #ff4c68;
-    color: #fff;
     padding: 7% 15%;
 }
 
